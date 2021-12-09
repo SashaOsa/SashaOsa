@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SashaOsa
 - 👀 I’m interested in anything
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on programming(noob programming)
+- 💞️ I’m looking to collaborate on programming (noob programming)
 - 📫 How to reach me Inst(sashaosayt)
 
 <!---
